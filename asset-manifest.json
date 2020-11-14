@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/OPP-sunrin/static/css/main.0266535f.chunk.css",
-    "main.js": "/OPP-sunrin/static/js/main.3dcc3b51.chunk.js",
-    "main.js.map": "/OPP-sunrin/static/js/main.3dcc3b51.chunk.js.map",
+    "main.js": "/OPP-sunrin/static/js/main.11f07c07.chunk.js",
+    "main.js.map": "/OPP-sunrin/static/js/main.11f07c07.chunk.js.map",
     "runtime-main.js": "/OPP-sunrin/static/js/runtime-main.9d01f224.js",
     "runtime-main.js.map": "/OPP-sunrin/static/js/runtime-main.9d01f224.js.map",
     "static/css/2.068a35fb.chunk.css": "/OPP-sunrin/static/css/2.068a35fb.chunk.css",
-    "static/js/2.cfafa181.chunk.js": "/OPP-sunrin/static/js/2.cfafa181.chunk.js",
-    "static/js/2.cfafa181.chunk.js.map": "/OPP-sunrin/static/js/2.cfafa181.chunk.js.map",
+    "static/js/2.40a45d0c.chunk.js": "/OPP-sunrin/static/js/2.40a45d0c.chunk.js",
+    "static/js/2.40a45d0c.chunk.js.map": "/OPP-sunrin/static/js/2.40a45d0c.chunk.js.map",
     "static/js/3.a36f3dd2.chunk.js": "/OPP-sunrin/static/js/3.a36f3dd2.chunk.js",
     "static/js/3.a36f3dd2.chunk.js.map": "/OPP-sunrin/static/js/3.a36f3dd2.chunk.js.map",
     "index.html": "/OPP-sunrin/index.html",
     "static/css/2.068a35fb.chunk.css.map": "/OPP-sunrin/static/css/2.068a35fb.chunk.css.map",
     "static/css/main.0266535f.chunk.css.map": "/OPP-sunrin/static/css/main.0266535f.chunk.css.map",
-    "static/js/2.cfafa181.chunk.js.LICENSE.txt": "/OPP-sunrin/static/js/2.cfafa181.chunk.js.LICENSE.txt"
+    "static/js/2.40a45d0c.chunk.js.LICENSE.txt": "/OPP-sunrin/static/js/2.40a45d0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d01f224.js",
     "static/css/2.068a35fb.chunk.css",
-    "static/js/2.cfafa181.chunk.js",
+    "static/js/2.40a45d0c.chunk.js",
     "static/css/main.0266535f.chunk.css",
-    "static/js/main.3dcc3b51.chunk.js"
+    "static/js/main.11f07c07.chunk.js"
   ]
 }
