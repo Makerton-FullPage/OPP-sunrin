@@ -80,12 +80,6 @@ function App() {
 
       <FullPagePanel>
       <video className="pt_img" controls>
-     <source src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/ai.mp4" type="video/mp4" />
-     Your browser does not support the video tag.
-     </video>  
-      </FullPagePanel>
-      <FullPagePanel>
-      <video className="pt_img" controls>
        <source src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/tldus.mp4" type="video/mp4" />
         Your browser does not support the video tag.
           </video>
