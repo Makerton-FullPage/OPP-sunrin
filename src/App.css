@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.font{
+  color: white;
+}
+#title{
+  font-size: 100px;
+  margin-top: 0%;
+  margin-bottom: 0%;
+
+}
+
+._3klkV {
+  color: white !important;
+}
+
+._1X2N_ {
+  background-color: black !important;
+}
+
+.pt_img {
+  width: 100vw;
+  height: 100vh;
+}
