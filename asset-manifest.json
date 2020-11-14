@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OPP-sunrin/static/css/main.0266535f.chunk.css",
-    "main.js": "/OPP-sunrin/static/js/main.ab6f95d9.chunk.js",
-    "main.js.map": "/OPP-sunrin/static/js/main.ab6f95d9.chunk.js.map",
+    "main.js": "/OPP-sunrin/static/js/main.65ef381a.chunk.js",
+    "main.js.map": "/OPP-sunrin/static/js/main.65ef381a.chunk.js.map",
     "runtime-main.js": "/OPP-sunrin/static/js/runtime-main.9d01f224.js",
     "runtime-main.js.map": "/OPP-sunrin/static/js/runtime-main.9d01f224.js.map",
     "static/css/2.068a35fb.chunk.css": "/OPP-sunrin/static/css/2.068a35fb.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.068a35fb.chunk.css",
     "static/js/2.40a45d0c.chunk.js",
     "static/css/main.0266535f.chunk.css",
-    "static/js/main.ab6f95d9.chunk.js"
+    "static/js/main.65ef381a.chunk.js"
   ]
 }
