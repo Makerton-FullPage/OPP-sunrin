@@ -77,6 +77,14 @@ function App() {
           <img className="pt_img" src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/13.png"></img>
         </div>
       </FullPagePanel>
+      
+      <FullPagePanel>
+        <div className="font">
+          <a href="https://youtu.be/EOWj9jMly2U">
+          https://youtu.be/EOWj9jMly2U
+          </a>
+        </div>
+      </FullPagePanel>
 
       <FullPagePanel>
       <video className="pt_img" controls>
