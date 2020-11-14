@@ -71,17 +71,24 @@ function App() {
           <img className="pt_img" src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/12.png"></img>
         </div>
         
-      </FullPagePanel><FullPagePanel>
+      </FullPagePanel>
+      <FullPagePanel>
         <div className="font">
           <img className="pt_img" src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/13.png"></img>
         </div>
       </FullPagePanel>
+
       <FullPagePanel>
       <video className="pt_img" controls>
-  <source src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/tldus.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+     <source src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/ai.mp4" type="video/mp4" />
+     Your browser does not support the video tag.
+     </video>  
+      </FullPagePanel>
+      <FullPagePanel>
+      <video className="pt_img" controls>
+       <source src="https://sunrinmaker.s3.ap-northeast-2.amazonaws.com/page/page/tldus.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
           </video>
-        
       </FullPagePanel>
 
       <FullPagePanel>
@@ -90,8 +97,6 @@ function App() {
         </div>
         
       </FullPagePanel>
-
-     
       
     </FullPageContainer>
   );
